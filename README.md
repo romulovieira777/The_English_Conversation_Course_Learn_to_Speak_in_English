@@ -6,5 +6,6 @@
 - [Section 03 - Beginner Unit 2 - How to Talk About Personal Information 1](https://github.com/romulovieira777/The_English_Conversation_Course_Learn_to_Speak_in_English/tree/master/Section_03_Beginner_Unit_2_How_to_Talk_About_Personal_Information_1)
 - [Section 04 - Beginner Unit 3 - How to Talk About Personal Information 2](https://github.com/romulovieira777/The_English_Conversation_Course_Learn_to_Speak_in_English/tree/master/Section_04_Beginner_Unit_3_How_to_Talk_About_Personal_Information_2)
 - [Section 05 - Beginner Unit 4 - How to Talk About Family](https://github.com/romulovieira777/The_English_Conversation_Course_Learn_to_Speak_in_English/tree/master/Section_05_Beginner_Unit_4_How_to_Talk_About_Family)
+- [Section 06 - Beginner Unit 5 - How to Talk About Locations]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/the-english-conversation-course/)
