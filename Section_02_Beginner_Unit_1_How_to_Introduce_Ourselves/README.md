@@ -57,3 +57,65 @@ Este documento resume os conteúdos disponíveis para a Section 02 (Beginner Uni
 ## Recursos extras
 - Use aplicativos de pronúncia (por exemplo, forvo, Google Translate speak) para ouvir nativos.
 - Pratique com um parceiro ou professor para feedback.
+
+---
+
+# English version
+
+This document summarizes the available content for Section 02 (Beginner Unit 1) — "How to Introduce Ourselves" — and provides quick guidance for study and practice.
+
+## Included materials
+- `Unit_1_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary, key phrases, and exercises (original file).
+
+> Path: `./Unit_1_Summary_Sheet_Beginner.pdf`
+
+## Learning objectives
+- Learn and practice basic phrases for introducing yourself in English.
+- Understand common questions used to ask for personal information (name, origin, job, likes).
+- Practice the pronunciation of greetings and short answers.
+
+## Main content (summary)
+- Greetings: "Hello", "Hi", "Good morning/afternoon/evening".
+- Basic questions: "What's your name?", "Where are you from?", "What do you do?", "How are you?".
+- Common answers: "My name is...", "I'm from...", "I'm a...", "I'm fine, thank you".
+- Related vocabulary: nationalities, jobs, and simple hobbies.
+- Essential grammar: the verb to be (am/is/are), personal pronouns, question formation (Wh- questions and yes/no questions), and contractions (I'm, you're, he's).
+
+## Study tips
+1. Read `Unit_1_Summary_Sheet_Beginner.pdf` carefully and highlight phrases you do not know.
+2. Practice out loud — recording your voice helps you notice pronunciation issues.
+3. Do role-play in pairs: one person asks questions and the other answers; then switch roles.
+4. Memorize 10 key phrases and reuse them with different names, countries, and jobs.
+
+## Suggested activities
+- Activity 1 — Introduction dialogue: memorize and practice the sample dialogue below.
+- Activity 2 — Quick questions: ask a partner to ask 10 questions in 2 minutes.
+- Activity 3 — Self-recording: record a 30- to 60-second introduction (name, optional age, where you are from, what you do, hobbies).
+
+## Sample dialogue (practice out loud)
+
+- English:
+  - A: Hi, my name is Sarah. What's your name?
+  - B: Hello Sarah, I'm John. Nice to meet you.
+  - A: Nice to meet you too. Where are you from?
+  - B: I'm from Brazil. And you?
+  - A: I'm from the United States. What do you do?
+  - B: I'm a teacher. How about you?
+  - A: I'm a student.
+
+- Portuguese (quick translation):
+  - A: Oi, meu nome é Sarah. Qual é o seu nome?
+  - B: Olá Sarah, eu sou o John. Prazer em conhecê-la.
+  - A: Prazer em conhecê-lo também. De onde você é?
+  - B: Eu sou do Brasil. E você?
+  - A: Eu sou dos Estados Unidos. O que você faz?
+  - B: Eu sou professor. E você?
+  - A: Eu sou estudante.
+
+## Quick grammar points
+- Verb to be: "I am" → "I'm", "You are" → "You're", "He/She is" → "He's/She's".
+- Questions with "What/Where/How/Who": place the auxiliary verb (or to be) right after the pronoun.
+
+## Extra resources
+- Use pronunciation apps (for example, Forvo or Google Translate speak) to hear native speakers.
+- Practice with a partner or teacher to get feedback.
