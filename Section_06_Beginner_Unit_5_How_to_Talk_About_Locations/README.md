@@ -1,60 +1,61 @@
-# Section 06 — Beginner Unit 5: How to Talk About Locations
+ # Section 06 — Beginner Unit 5: How to Talk About Locations
 
-Resumo e orientações para a Section 06 — "How to Talk About Locations".
+ ## Versão em português (Brasil)
 
----
+ Resumo e orientações para a Section 06 — "How to Talk About Locations".
 
-## English version
+ ## Materiais incluídos
+ - `Unit_5_Summary_Sheet_Beginner.pdf` — folha de resumo com vocabulário e frases sobre locais e direções.
 
-Summary and guidance for Section 06 — "How to Talk About Locations".
+ > Caminho: `./Unit_5_Summary_Sheet_Beginner.pdf`
 
-## Materiais incluídos
-- `Unit_5_Summary_Sheet_Beginner.pdf` — folha de resumo com vocabulário e frases sobre locais e direções.
+ ## Objetivos de aprendizagem
+ - Aprender vocabulário de locais (school, supermarket, bank, park) e dar/receber direções simples.
+ - Praticar perguntas: "Where is the ...?", "How do I get to ...?".
 
-> Caminho: `./Unit_5_Summary_Sheet_Beginner.pdf`
+ ## Conteúdo principal (resumo)
+ - Locais comuns na cidade e frases de localização: "It's on Main Street.", "Turn left/right.", "Go straight.".
+ - Preposições de lugar: in, on, at, next to, between, opposite.
 
-## Included materials
-- `Unit_5_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary and phrases about places and directions.
+ ## Dicas de estudo
+ 1. Use um mapa simples e descreva rotas em inglês.
+ 2. Pratique pedir e dar direções com um parceiro.
 
-> Path: `./Unit_5_Summary_Sheet_Beginner.pdf`
+ ## Atividades sugeridas
+ - Role-play: peça indicações para chegar a um local específico.
+ - Exercício: descreva onde está cada lugar em uma pequena planta.
 
-## Objetivos de aprendizagem
-- Aprender vocabulário de locais (school, supermarket, bank, park) e dar/receber direções simples.
-- Praticar perguntas: "Where is the ...?", "How do I get to ...?".
+ ## Pontos gramaticais rápidos
+ - Preposições de lugar e direção.
+ - Imperativo para instruções: "Turn left", "Take the second street".
 
-## Learning objectives
-- Learn location vocabulary (school, supermarket, bank, park) and how to give and receive simple directions.
-- Practice questions: "Where is the ...?", "How do I get to ...?".
+ ---
 
-## Conteúdo principal (resumo)
-- Locais comuns na cidade e frases de localização: "It's on Main Street.", "Turn left/right.", "Go straight.".
-- Preposições de lugar: in, on, at, next to, between, opposite.
+ ## English version
 
-## Main content (summary)
-- Common places in the city and location phrases: "It's on Main Street.", "Turn left/right.", "Go straight.".
-- Prepositions of place: in, on, at, next to, between, opposite.
+ Summary and guidance for Section 06 — "How to Talk About Locations".
 
-## Dicas de estudo
-1. Use um mapa simples e descreva rotas em inglês.
-2. Pratique pedir e dar direções com um parceiro.
+ ## Included materials
+ - `Unit_5_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary and phrases about places and directions.
 
-## Study tips
-1. Use a simple map and describe routes in English.
-2. Practice asking for and giving directions with a partner.
+ > Path: `./Unit_5_Summary_Sheet_Beginner.pdf`
 
-## Atividades sugeridas
-- Role-play: peça indicações para chegar a um local específico.
-- Exercício: descreva onde está cada lugar em uma pequena planta.
+ ## Learning objectives
+ - Learn location vocabulary (school, supermarket, bank, park) and how to give and receive simple directions.
+ - Practice questions: "Where is the ...?", "How do I get to ...?".
 
-## Suggested activities
-- Role-play: ask for directions to reach a specific place.
-- Exercise: describe where each place is on a small map.
+ ## Main content (summary)
+ - Common places in the city and location phrases: "It's on Main Street.", "Turn left/right.", "Go straight.".
+ - Prepositions of place: in, on, at, next to, between, opposite.
 
-## Pontos gramaticais rápidos
-- Preposições de lugar e direção.
-- Imperativo para instruções: "Turn left", "Take the second street".
+ ## Study tips
+ 1. Use a simple map and describe routes in English.
+ 2. Practice asking for and giving directions with a partner.
 
-## Quick grammar points
-- Prepositions of place and direction.
-- Imperatives for instructions: "Turn left", "Take the second street".
+ ## Suggested activities
+ - Role-play: ask for directions to reach a specific place.
+ - Exercise: describe where each place is on a small map.
 
+ ## Quick grammar points
+ - Prepositions of place and direction.
+ - Imperatives for instructions: "Turn left", "Take the second street".
