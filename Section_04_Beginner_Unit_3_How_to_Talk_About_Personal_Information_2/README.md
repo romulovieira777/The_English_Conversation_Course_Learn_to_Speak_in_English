@@ -1,12 +1,8 @@
 # Section 04 — Beginner Unit 3: How to Talk About Personal Information 2
 
+## Versão em português (Brasil)
+
 Resumo e orientações para a Section 04 — "How to Talk About Personal Information 2".
-
----
-
-## English version
-
-Summary and guidance for Section 04 — "How to Talk About Personal Information 2".
 
 ## Materiais incluídos
 - `Unit_3_Summary_Sheet_Beginner.pdf` — folha de resumo com vocabulário, frases-chave e exercícios.
@@ -54,7 +50,33 @@ Summary and guidance for Section 04 — "How to Talk About Personal Information 
 - Introdução ao present perfect: "Have you ever...?" — respostas simples: "Yes, I have" / "No, I haven't".
 - Past simple para ações concluídas no passado: "I went", "I lived".
 
+---
+
+## English version
+
+Summary and guidance for Section 04 — "How to Talk About Personal Information 2".
+
+## Included materials
+- `Unit_3_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary, key phrases, and exercises.
+
+> Path: `./Unit_3_Summary_Sheet_Beginner.pdf`
+
+## Learning objectives
+- Deepen your ability to talk about personal history and preferences.
+- Introduce expressions for describing past experiences in a simple way.
+
+## Main content (summary)
+- Questions about experiences: "Have you ever...?", "When did you...?" (simple introduction to the present perfect and past simple).
+- Phrases for telling short personal stories: "I used to...", "When I was a child...".
+
+## Study tips
+1. Read the PDF and highlight phrases with different verb tenses.
+2. Tell a short personal experience (1–2 minutes) while practicing the new vocabulary.
+
+## Suggested activities
+- Write 3 sentences about something you did in the past and read them out loud.
+- Pair questions: one student asks and the other answers with a short experience.
+
 ## Quick grammar points
 - Introduction to the present perfect: "Have you ever...?" — simple answers: "Yes, I have" / "No, I haven't".
 - Past simple for completed actions in the past: "I went", "I lived".
-
