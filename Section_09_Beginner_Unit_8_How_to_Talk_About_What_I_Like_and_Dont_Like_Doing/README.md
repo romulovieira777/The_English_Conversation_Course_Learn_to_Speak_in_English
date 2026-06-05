@@ -1,5 +1,7 @@
 # Section 09 — Beginner Unit 8: How to Talk About What I Like and Don't Like Doing
 
+## Versão em português (Brasil)
+
 Resumo e orientações para a Section 09 — "How to Talk About What I Like and Don't Like Doing".
 
 ## Materiais incluídos
@@ -26,3 +28,34 @@ Resumo e orientações para a Section 09 — "How to Talk About What I Like and 
 ## Pontos gramaticais rápidos
 - Gerúndio após "like/love/enjoy": "I enjoy playing football.".
 - Advérbios de frequência: posição típica antes do verbo principal.
+
+---
+
+## English version
+
+Summary and guidance for Section 09 — "How to Talk About What I Like and Don't Like Doing".
+
+## Included materials
+- `Unit_8_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary and phrases about activities and hobbies.
+
+> Path: `./Unit_8_Summary_Sheet_Beginner.pdf`
+
+## Learning objectives
+- Talk about activities and hobbies using gerunds (doing): "I like swimming", "I don't enjoy cooking".
+- Ask about hobbies: "What do you like doing?".
+
+## Main content (summary)
+- List of common hobbies and sample sentences.
+- Express frequency: "often", "sometimes", "never".
+
+## Study tips
+1. List your hobbies and practice short sentences using gerunds.
+2. Ask a partner about the frequency of their activities.
+
+## Suggested activities
+- Hobbies interview: each student asks 5 questions and records the answers.
+- Ranking: organize activities by frequency (always, often, sometimes, never).
+
+## Quick grammar points
+- Gerund after "like/love/enjoy": "I enjoy playing football.".
+- Adverbs of frequency: typical position before the main verb.
