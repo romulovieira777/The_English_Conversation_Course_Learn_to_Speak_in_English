@@ -1,7 +1,5 @@
 # Section 02 — Beginner Unit 1: How to Introduce Ourselves
 
-## Versão em português (Brasil)
-
 Este documento resume os conteúdos disponíveis para a Section 02 (Beginner Unit 1) — "How to Introduce Ourselves" — e fornece orientações rápidas para estudo e prática.
 
 ## Materiais incluídos
@@ -62,7 +60,7 @@ Este documento resume os conteúdos disponíveis para a Section 02 (Beginner Uni
 
 ---
 
-## English version
+# English version
 
 This document summarizes the available content for Section 02 (Beginner Unit 1) — "How to Introduce Ourselves" — and provides quick guidance for study and practice.
 
