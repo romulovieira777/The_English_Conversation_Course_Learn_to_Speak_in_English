@@ -1,12 +1,6 @@
 # Section 03 — Beginner Unit 2: How to Talk About Personal Information 1
 
-Resumo e orientações rápidas para a Section 03 — "How to Talk About Personal Information 1".
-
----
-
-## English version
-
-Quick summary and study guidance for Section 03 — "How to Talk About Personal Information 1".
+## Versão em português (Brasil)
 
 ## Materiais incluídos
 - `Unit_2_Summary_Sheet_Beginner.pdf` — folha de resumo com vocabulário, frases-chave e exercícios.
@@ -59,6 +53,36 @@ Quick summary and study guidance for Section 03 — "How to Talk About Personal 
 ## Pontos gramaticais rápidos
 - Uso de "How" em perguntas (How old, How long, How many).
 - Presente simples para rotinas (I work, I study).
+
+---
+
+## English version
+
+Quick summary and study guidance for Section 03 — "How to Talk About Personal Information 1".
+
+## Included materials
+- `Unit_2_Summary_Sheet_Beginner.pdf` — summary sheet with vocabulary, key phrases, and exercises.
+- `2.3_Lesson.mp4` — video lesson (if applicable).
+
+> Paths: `./Unit_2_Summary_Sheet_Beginner.pdf`, `./2.3_Lesson.mp4`
+
+## Learning objectives
+- Learn how to ask and answer more detailed personal information questions (age, address, phone number, email).
+- Use structures to talk about work and studies.
+
+## Main content (summary)
+- Additional questions: "How old are you?", "Where do you live?", "What's your phone number?", "What's your email?".
+- Phrases for work/study: "I work as...", "I study at...".
+- Vocabulary: numbers, types of housing, professional terms, and academic terms.
+
+## Study tips
+1. Watch `2.3_Lesson.mp4` and write down phrases and examples.
+2. Practice asking and answering in pairs (include fake numbers and addresses for practice).
+3. Use the PDF as a guide and underline the forms you find difficult.
+
+## Suggested activities
+- Role-play: simulate a short interview where one person fills in a personal information form.
+- Number dictation: ask a partner to dictate phone numbers and write them down.
 
 ## Quick grammar points
 - Use of "How" in questions (How old, How long, How many).
